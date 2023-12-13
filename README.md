@@ -1,7 +1,6 @@
 # Minimal 3D
-The game use glfw3, glew and stbi image
-# Video
-https://www.youtube.com/watch?v=3JUF-TISw6M
+It's game with minimal 3d graphics, the project use glfw3, glew, opengl, glu and stbi image, supported platforms Windows x64.
+
 # Screenshots
 ![Alt text](Screenshots/Screenshot1.png)
 ![Alt text](Screenshots/Screenshot2.png)
